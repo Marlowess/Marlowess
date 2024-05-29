@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- :computer: I'm a Data Engineer 
-- 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning AWS architecture and its services
-- ⚡ Fun fact: I like to listen to music
-- :house: I currently live in Turin, Italy
+- 💻 I'm a Data Engineer and a senior consultant for financial companies
+- ☁️ I design cloud infrastructures, mainly in GCP and AWS
+- 🐍 My favorite tools are Python, Jupyter Notebook, Pandas, and Apache Spark
+- 🔭 I like to work on personal projects when out of office
+- 🏠 I live in Italy
