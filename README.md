@@ -11,7 +11,7 @@ I'm a Data Engineer with 6+ years of experience, passionate about building scala
 
 ☁️ I work with Azure, AWS, and GCP, focusing on data engineering and cloud architectures
 
-🐍 My main technologies include Python, PySpark, Apache Spark, Databricks, and Delta Lake
+🐍 My main technologies include Python, PySpark, Databricks, and Delta Lake
 
 ⚙️ I'm interested in software architecture, automation, and backend development
 
